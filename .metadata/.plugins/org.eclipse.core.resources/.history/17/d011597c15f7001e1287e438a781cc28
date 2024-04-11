@@ -1,0 +1,169 @@
+package com.art.service;
+
+import java.util.Optional;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Service;
+import org.springframework.web.bind.annotation.PathVariable;
+
+import com.art.exception.InvalidItemException;
+import com.art.proxy.ProductProxy;
+import com.art.proxy.UserProxy;
+import com.art.repository.CartItemRepository;
+import com.art.repository.CartRepository;
+import com.art.request.AddCartItemRequest;
+import com.product.external.services.UserService;
+import com.art.model.*;
+
+
+@Service
+public class CartServiceImpl implements CartService {
+    
+    private static final Logger logger = LoggerFactory.getLogger(CartServiceImpl.class);
+    
+    @Autowired
+    private CartRepository cartRepository;
+    
+    @Autowired
+    private CartItemRepository cartItemRepository;
+    
+    @Autowired
+    private UserProxy userProxy;
+    
+    @Autowired
+    private ProductProxy productProxy;
+    
+    //@Autowired
+   // private  UserService userservice;
+    
+   
+    
+    
+
+   
+    public CartItem addItemToCart(AddCartItemRequest req, String jwt) throws Exception {
+        ResponseEntity<User> userResponse = userProxy.findUserByJwtToken(jwt);
+        User user = userResponse.getBody();
+        
+        if (user != null) {
+            Cart cart = cartRepository.findByCustomerUserid(user.getUserid());
+            
+            if (cart == null) {
+                cart = new Cart();
+                cart.setCustomer(user);
+                // Save the newly created cart
+                cart = cartRepository.save(cart);
+            }
+            
+            Product product = getProductById(req.getProductId());
+            
+            if (product != null) {
+                int productId = product.getId(); // Convert primitive int to Integer object
+                
+                Optional<CartItem> existingCartItemOptional = cart.getItem().stream()
+                        .filter(cartItem -> cartItem.getProduct().getId() == productId) // Use Integer object for comparison
+                        .findFirst();
+
+                if (existingCartItemOptional.isPresent()) {
+                    CartItem existingCartItem = existingCartItemOptional.get();
+                    int newQuantity = existingCartItem.getQuantity() + req.getQuantity();
+                    return updateCartItemQuantity(existingCartItem.getCartid(), newQuantity);
+                } else {
+                    CartItem newCartItem = new CartItem();
+                    //newCartItem.setProduct(product);
+                    newCartItem.setProduct(product);
+                    newCartItem.setCart(cart);
+                    newCartItem.setQuantity(req.getQuantity());
+                    newCartItem.setTotalPrice(req.getQuantity() * product.getPrice());
+                    
+                    CartItem savedCartItem = cartItemRepository.save(newCartItem);
+                    cart.getItem().add(savedCartItem);
+                    return savedCartItem;
+                }
+            } else {
+                throw new InvalidItemException("Product not found.");
+            }
+        } else {
+            throw new Exception("User not found");
+        }
+    }
+
+
+
+    
+
+
+	@Override
+    public Product getProductById(String id) throws InvalidItemException {
+        try {
+            logger.info("Fetching product with ID: {}", id);
+            return productProxy.getProductById(id);
+        } catch (Exception e) {
+            logger.error("Error occurred while fetching product with ID: {}", id, e);
+            throw new InvalidItemException("Product with ID " + id + " not found.");
+        }
+    }
+
+    @Override
+    public CartItem updateCartItemQuantity(Long cartItemId, int quantity) throws Exception {
+        Optional<CartItem> cartItemOptional = cartItemRepository.findById(cartItemId);
+        if (cartItemOptional.isPresent()) {
+            CartItem cartItem = cartItemOptional.get();
+            cartItem.setQuantity(quantity);
+            cartItem.setTotalPrice(cartItem.getProduct().getPrice() * quantity);
+            return cartItemRepository.save(cartItem);
+        } else {
+            throw new Exception("Cart item not found");
+        }
+    }
+
+    @Override
+    public Cart removeItemFromCart(Long cartItemId, String jwt) throws Exception {
+        ResponseEntity<User> userResponse = userProxy.findUserByJwtToken(jwt);
+        User user = userResponse.getBody();
+        Cart cart = cartRepository.findByCustomerUserid(user.getUserid());
+        Optional<CartItem> cartItemOptional = cartItemRepository.findById(cartItemId);
+        if (cartItemOptional.isPresent()) {
+            CartItem cartItem = cartItemOptional.get();
+            cart.getItem().remove(cartItem);
+            return cartRepository.save(cart);
+        } else {
+            throw new Exception("Cart item not found");
+        }
+    }
+
+    @Override
+    public Long calculateCartTotals(Cart cart) throws Exception {
+        long total = 0L; // Use primitive long instead of Long object
+        
+        for (CartItem cartItem : cart.getItem()) { // Ensure you're iterating over cart.getItems()
+            total += cartItem.getProduct().getPrice() * cartItem.getQuantity();
+        }
+        return total;
+    }
+
+    @Override
+    public Cart findCartByUserId(int userId) throws Exception {
+        Cart cart = cartRepository.findByCustomerUserid(userId);
+        if (cart != null) {
+            cart.setTotal(calculateCartTotals(cart));
+            return cart;
+        } else {
+            throw new Exception("Cart not found for user ID: " + userId);
+        }
+    }
+
+    @Override
+    public Cart clearCart(int userId) throws Exception {
+        Cart cart = findCartByUserId(userId);
+        cart.getItem().clear();
+        return cartRepository.save(cart);
+    }
+
+	
+    
+	
+}

@@ -1,0 +1,10 @@
+package com.art.exception;
+
+public class InvalidItemException extends Exception {
+
+	public InvalidItemException(String message) {
+		super(message);
+		// TODO Auto-generated constructor stub
+	}
+
+}

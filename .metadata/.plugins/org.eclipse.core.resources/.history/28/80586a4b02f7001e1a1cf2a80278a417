@@ -1,0 +1,26 @@
+package com.art.proxy;
+
+import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestHeader;
+
+import com.art.model.User;
+
+
+
+@FeignClient(name="USER-SERVICE" , url="http://localhost:3306")
+public interface UserProxy {
+
+	@GetMapping("/api/users/profile")
+	public ResponseEntity<User> findUserByJwtToken(@RequestHeader("Authorization") String jwt) throws Exception;
+
+	@GetMapping("/auth/getUserById/{userId}")
+	ResponseEntity<?>getUserById(@PathVariable int userId);
+	
+	
+	@GetMapping("/api/users/{userid}")
+	User getByUserId(@PathVariable String userid);
+	
+}

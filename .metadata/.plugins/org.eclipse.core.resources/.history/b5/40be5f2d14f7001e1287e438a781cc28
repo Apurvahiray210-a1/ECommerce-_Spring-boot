@@ -1,0 +1,51 @@
+package com.art.service;
+
+
+import java.util.List;
+
+import org.springframework.http.ResponseEntity;
+
+import com.art.exception.InvalidItemException;
+import com.art.model.Cart;
+import com.art.model.CartItem;
+import com.art.request.AddCartItemRequest;
+//import com.product.model.Product;
+import com.art.model.*;
+
+public interface CartService {
+
+	//CartItem addItemToCart(AddCartItemRequest req, String jwt) throws Exception;
+	
+	//CartItem updateCartItemQuantity(Long cartid, int quantity) throws Exception;
+	
+	//Cart removeItemFromCart(Long cartItemId) throws Exception;
+	
+	//Long calculateCartTotals(Cart cart) throws Exception;
+	
+	//public double getTotalPrice(int userid);
+	
+	//Cart findCartById(Long cartid) throws Exception;
+	
+	//Cart findCartByUserId(int userid) throws Exception;
+	
+	//Cart clearCart(int userid) throws Exception;
+	//void  addProductToCart(long cartid,String id,int quantity );
+	
+	//Product getProductById(String id) throws InvalidItemException;
+	 Product getProductById(String productId);
+
+	    void removeProductFromCart(String productId);
+
+	    void addProductToCart(int cartId, String productId, int quantity);
+
+	    void updateCart(int cartId, String productId, int quantity);
+
+	    List<Cart> displayUserCart();
+
+	    List<Cart> getUserCart(String productId);
+
+	    double getTotalPrice(String productId);
+	
+	
+	
+}
