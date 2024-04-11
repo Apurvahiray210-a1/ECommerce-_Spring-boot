@@ -30,7 +30,7 @@ public class Cart {
    
    @Id
    @GeneratedValue(strategy = GenerationType.IDENTITY)
-   private Long cartid;
+   private String cartid;
    
    @ManyToOne
    @JoinColumn(name = "product_id")

@@ -10,7 +10,7 @@ import com.art.model.Cart;
 
 
 @Repository
-public interface CartRepository extends JpaRepository<Cart,Long>{
+public interface CartRepository extends JpaRepository<Cart,String>{
 
 	 Cart findByCustomerUserid(int userId);
 	

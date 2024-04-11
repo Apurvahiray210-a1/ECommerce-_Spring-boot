@@ -31,7 +31,7 @@ public interface CartService {
 	
 	//Product getProductById(String id) throws InvalidItemException;
 		//Product getProductById(String productId);
-	 Product getProductById(@PathVariable int id);
+	 /*Product getProductById(@PathVariable int id);
 
 	    void removeProductFromCart(long cartid);
 
@@ -44,7 +44,17 @@ public interface CartService {
 
 	    List<Cart> displayUserCart();
 
-	    double getTotalPrice(int id);
+	    double getTotalPrice(int id);*/
+	
+	Cart addProductToCart(Cart cart);
+
+
+	 public List<Cart> getAllProductInCart();
+	 
+	 public String deleteProductFromCart(String cartId);
+	 
+	  public void updateCart(String cartId,String productId,int quantity);
+	 
 	
 	
 	

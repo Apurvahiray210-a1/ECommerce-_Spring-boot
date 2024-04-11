@@ -1,0 +1,9 @@
+package com.art.exception;
+
+public class ResourceNotFound extends RuntimeException{
+	
+	public ResourceNotFound(String str)
+	{
+		super(str);
+	}
+}
