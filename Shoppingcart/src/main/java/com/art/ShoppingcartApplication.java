@@ -13,6 +13,9 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @EnableJpaRepositories("com.art.repository")
 @EnableFeignClients
 @EnableDiscoveryClient(autoRegister=true)
+
+//@EnableDiscoveryClient
+//@EnableFeignClients
 public class ShoppingcartApplication {
 
 	public static void main(String[] args) {

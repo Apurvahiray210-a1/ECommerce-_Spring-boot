@@ -284,3 +284,729 @@
 2024-04-11 19:46:21,635 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
 2024-04-11 19:46:37,889 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-04-11 19:46:37,903 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-11 19:46:37,912 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-11 22:35:17,441 [Worker-76: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.product:Product_Management_Backend:0.0.1-SNAPSHOT @ C:\Users\AHIRAY\Desktop\ECommerce\Product_Management_Backend\pom.xml.
+2024-04-11 22:35:21,439 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.4.Final/hibernate-core-4.1.4.Final.pom
+2024-04-11 22:35:21,728 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.4.Final/hibernate-core-4.1.4.Final.pom
+2024-04-11 22:35:21,963 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.pom
+2024-04-11 22:35:22,190 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.pom
+2024-04-11 22:35:22,338 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta2/jboss-specs-parent-1.0.0.Beta2.pom
+2024-04-11 22:35:22,526 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta2/jboss-specs-parent-1.0.0.Beta2.pom
+2024-04-11 22:35:22,755 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5/jboss-parent-5.pom
+2024-04-11 22:35:22,909 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5/jboss-parent-5.pom
+2024-04-11 22:35:23,086 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+2024-04-11 22:35:23,319 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+2024-04-11 22:35:24,572 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.pom
+2024-04-11 22:35:24,727 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.pom
+2024-04-11 22:35:24,923 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.pom
+2024-04-11 22:35:25,852 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.pom
+2024-04-11 22:35:26,045 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.pom
+2024-04-11 22:35:26,463 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.pom
+2024-04-11 22:35:27,086 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+2024-04-11 22:35:28,504 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.4.Final/hibernate-core-4.1.4.Final.jar
+2024-04-11 22:35:28,504 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.jar
+2024-04-11 22:35:28,505 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar
+2024-04-11 22:35:28,505 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+2024-04-11 22:35:32,698 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+2024-04-11 22:35:33,899 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.jar
+2024-04-11 22:35:34,309 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar
+2024-04-11 22:35:34,899 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+2024-04-11 22:35:36,260 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.jar
+2024-04-11 22:35:38,987 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.jar
+2024-04-11 22:35:45,015 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.4.Final/hibernate-core-4.1.4.Final.jar
+2024-04-11 22:35:45,799 [Worker-76: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.art:Shoppingcart:0.0.1-SNAPSHOT @ C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\pom.xml.
+2024-04-11 22:35:46,626 [Worker-76: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier  to /User-Service/target/classes
+2024-04-11 22:35:46,637 [Worker-76: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier  to /Product_Management_Backend/target/classes
+2024-04-11 22:35:50,528 [Worker-82: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.4.Final/hibernate-core-4.1.4.Final-sources.jar
+2024-04-11 22:35:54,363 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-11 22:35:54,364 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-11 22:35:54,378 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Product_Management_Backend\src\test\resources
+2024-04-11 22:35:55,972 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-11 22:35:55,989 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-11 22:35:56,004 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-11 22:35:56,175 [Worker-82: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.4.Final/hibernate-core-4.1.4.Final-sources.jar
+2024-04-11 22:35:56,192 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:4.1.4.Final
+2024-04-11 22:35:56,900 [Worker-82: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final-sources.jar
+2024-04-11 22:35:57,654 [Worker-82: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final-sources.jar
+2024-04-11 22:35:57,670 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:1.0.0.Final
+2024-04-11 22:36:06,138 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-11 22:36:06,153 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2024-04-11 22:36:10,869 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Product_Management_Backend\src\test\resources
+2024-04-11 22:36:13,707 [Worker-82: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar
+2024-04-11 22:36:15,125 [Worker-82: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar
+2024-04-11 22:36:15,140 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for dom4j:dom4j:1.6.1
+2024-04-11 22:36:15,960 [Worker-82: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final-sources.jar
+2024-04-11 22:36:16,500 [Worker-82: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final-sources.jar
+2024-04-11 22:36:16,515 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.1.Final
+2024-04-11 22:36:21,953 [Worker-82: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA-sources.jar
+2024-04-11 22:36:24,483 [Worker-82: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA-sources.jar
+2024-04-11 22:36:24,499 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.15.0-GA
+2024-04-11 22:36:25,281 [Worker-82: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final-sources.jar
+2024-04-11 22:36:25,819 [Worker-82: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final-sources.jar
+2024-04-11 22:36:25,833 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.common:hibernate-commons-annotations:4.0.1.Final
+2024-04-11 22:36:25,852 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:4.1.4.Final
+2024-04-11 22:36:25,871 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:1.0.0.Final
+2024-04-11 22:36:25,888 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for dom4j:dom4j:1.6.1
+2024-04-11 22:36:25,905 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.1.Final
+2024-04-11 22:36:25,927 [Worker-82: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.15.0-GA
+2024-04-11 22:36:30,419 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-11 22:36:30,420 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-11 22:36:30,429 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Product_Management_Backend\src\test\resources
+2024-04-11 22:36:30,537 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-11 22:36:30,539 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-11 22:36:30,549 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-11 22:36:47,791 [Worker-85: Launching ShoppingcartApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-11 22:36:47,806 [Worker-85: Launching ShoppingcartApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-11 22:36:47,816 [Worker-85: Launching ShoppingcartApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-11 22:36:49,484 [Worker-85: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-11 22:36:49,486 [Worker-85: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-11 22:36:50,798 [Worker-85: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-11 22:36:50,801 [Worker-85: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-11 22:36:51,685 [Worker-85: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-11 22:36:51,688 [Worker-85: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-11 22:40:22,439 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-11 22:40:22,444 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-11 22:40:22,453 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 12:06:01,805 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-12 12:08:29,372 [Worker-10: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier  to /User-Service/target/classes
+2024-04-12 12:08:29,400 [Worker-10: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier  to /Product_Management_Backend/target/classes
+2024-04-12 12:08:31,321 [Worker-10: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-12 12:08:31,324 [Worker-10: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-12 12:08:32,353 [Worker-10: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-12 12:08:32,355 [Worker-10: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-12 12:08:33,181 [Worker-10: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-12 12:08:33,184 [Worker-10: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-12 16:39:45,825 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-12 22:58:23,390 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-12 23:00:24,380 [Worker-23: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier  to /User-Service/target/classes
+2024-04-12 23:00:24,387 [Worker-23: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier  to /Product_Management_Backend/target/classes
+2024-04-12 23:00:24,647 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:00:24,663 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:00:24,668 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:00:57,082 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:00:57,125 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:00:57,135 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:01:58,195 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:01:58,199 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:01:58,203 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:02:25,449 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:02:25,454 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:02:25,457 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:03:25,353 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:03:25,357 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:03:25,360 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:04:47,195 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:04:47,200 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:04:47,203 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:06:25,251 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:06:25,255 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:06:25,259 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:26:04,491 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:26:04,495 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:26:04,501 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:27:40,723 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:27:40,727 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:27:40,729 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:28:12,310 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:28:12,315 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:28:12,317 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:28:34,640 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:28:34,643 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:28:34,646 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:28:56,914 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:28:56,917 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:28:56,919 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:29:06,707 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:29:06,711 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:29:06,713 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:29:21,789 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:29:21,792 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:29:21,807 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:29:29,785 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:29:29,788 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:29:29,791 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:35:34,623 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:35:34,628 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:35:34,632 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:35:56,732 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:35:56,736 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:35:56,739 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:37:01,604 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:37:01,633 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:37:01,642 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:37:49,341 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:37:49,345 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:37:49,347 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:38:38,283 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:38:38,286 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:38:38,289 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:38:43,953 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:38:43,957 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:38:43,959 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:40:29,979 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:40:29,983 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:40:29,985 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:40:44,645 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-12 23:40:44,646 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-12 23:40:44,917 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-12 23:40:44,917 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-12 23:40:45,178 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-12 23:40:45,179 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-12 23:43:10,527 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:43:10,531 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:43:10,534 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:44:07,761 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:44:07,764 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:44:07,767 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-12 23:46:02,417 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 23:46:02,420 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 23:46:02,423 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 09:04:58,069 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:04:58,095 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:04:58,101 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 09:05:21,393 [Worker-38: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:05:21,396 [Worker-38: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:05:21,969 [Worker-38: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:05:21,971 [Worker-38: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:05:22,536 [Worker-38: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:05:22,537 [Worker-38: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:06:10,229 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:06:10,239 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:06:10,246 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 09:06:20,061 [Worker-43: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:06:20,062 [Worker-43: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:06:20,786 [Worker-43: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:06:20,788 [Worker-43: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:06:21,445 [Worker-43: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:06:21,447 [Worker-43: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:12:47,194 [Worker-44: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:12:47,195 [Worker-44: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:12:47,860 [Worker-44: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:12:47,862 [Worker-44: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:12:48,409 [Worker-44: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:12:48,411 [Worker-44: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:14:06,965 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:14:06,973 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:14:06,979 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 09:14:18,822 [Worker-50: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:14:18,824 [Worker-50: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:14:19,329 [Worker-50: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:14:19,330 [Worker-50: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:14:19,884 [Worker-50: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:14:19,887 [Worker-50: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:19:01,988 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:19:02,020 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:19:02,028 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\User-Service\src\test\resources
+2024-04-13 09:20:02,694 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:20:02,702 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:20:02,706 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 09:20:21,210 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:20:21,243 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2024-04-13 09:20:21,277 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Product_Management_Backend\src\test\resources
+2024-04-13 09:22:04,914 [Worker-51: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:22:04,916 [Worker-51: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:22:05,435 [Worker-51: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:22:05,437 [Worker-51: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:22:06,042 [Worker-51: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:22:06,043 [Worker-51: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:25:52,078 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:25:52,088 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:25:52,095 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 09:26:07,407 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:26:07,417 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:26:07,430 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 09:26:37,827 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:26:37,839 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:26:37,848 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 09:26:52,105 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:26:52,118 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:26:52,132 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 09:27:12,645 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:27:12,658 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:27:12,663 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 09:27:30,179 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:27:30,219 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:27:30,226 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 09:28:47,376 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:28:47,385 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:28:47,393 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 09:29:37,620 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:29:37,628 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:29:37,633 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 09:30:17,043 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:30:17,053 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:30:17,061 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 09:30:30,234 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:30:30,244 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:30:30,251 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 09:30:35,979 [Worker-58: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:30:35,980 [Worker-58: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:30:36,502 [Worker-58: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:30:36,504 [Worker-58: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:30:37,054 [Worker-58: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:30:37,056 [Worker-58: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:32:10,736 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:32:10,744 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:32:10,752 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 09:34:22,743 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 09:34:22,754 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:34:22,762 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 09:34:30,482 [Worker-59: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:34:30,484 [Worker-59: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:34:31,053 [Worker-59: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:34:31,055 [Worker-59: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 09:34:31,637 [Worker-59: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 09:34:31,640 [Worker-59: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:04:21,632 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-13 18:05:08,514 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:05:08,580 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2024-04-13 18:05:08,761 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Product_Management_Backend\src\test\resources
+2024-04-13 18:05:12,989 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:05:12,996 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:05:13,009 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\User-Service\src\test\resources
+2024-04-13 18:05:16,078 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier  to /User-Service/target/classes
+2024-04-13 18:05:16,089 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier  to /Product_Management_Backend/target/classes
+2024-04-13 18:05:16,144 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:05:16,149 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:05:16,156 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:05:21,322 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:05:21,334 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:05:21,343 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:05:29,555 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:05:29,733 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:05:29,743 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:05:55,516 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:05:55,529 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:05:55,541 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:06:11,759 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:06:11,769 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:06:11,778 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:08:31,164 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:08:31,172 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:08:31,211 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:08:49,075 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:08:49,102 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:08:49,113 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:09:02,658 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:09:02,666 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:09:02,673 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:12:37,486 [Worker-9: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:12:37,489 [Worker-9: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:12:38,280 [Worker-9: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:12:38,282 [Worker-9: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:12:38,979 [Worker-9: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:12:38,982 [Worker-9: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:13:10,906 [Worker-21: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:13:10,908 [Worker-21: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:13:11,537 [Worker-21: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:13:11,539 [Worker-21: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:13:12,108 [Worker-21: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:13:12,110 [Worker-21: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:13:50,891 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:13:50,895 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:13:51,586 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:13:51,588 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:13:52,515 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:13:52,517 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:33:13,525 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:33:13,548 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:33:13,559 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:33:33,907 [Worker-29: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:33:33,910 [Worker-29: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:33:34,762 [Worker-29: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:33:34,764 [Worker-29: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:33:35,582 [Worker-29: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:33:35,585 [Worker-29: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:36:39,588 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:36:39,620 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:36:39,633 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:36:46,432 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:36:46,437 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:36:47,957 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:36:47,960 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:36:49,427 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:36:49,432 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:37:00,176 [Worker-29: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:37:00,178 [Worker-29: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:37:01,151 [Worker-29: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:37:01,154 [Worker-29: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:37:02,008 [Worker-29: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:37:02,011 [Worker-29: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:38:06,638 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:38:06,656 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:38:06,669 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:38:46,858 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:38:46,861 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:38:47,618 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:38:47,621 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:38:48,488 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:38:48,490 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:44:07,935 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:44:07,951 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:44:07,962 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:44:18,482 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:44:18,498 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:44:18,511 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:45:09,297 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:45:09,316 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:45:09,332 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:46:40,175 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:46:40,185 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:46:40,194 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:47:45,947 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:47:45,963 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:47:45,975 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:51:04,912 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-13 18:51:17,769 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:51:17,840 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2024-04-13 18:51:18,262 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Product_Management_Backend\src\test\resources
+2024-04-13 18:51:26,118 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:51:26,131 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:51:26,144 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\User-Service\src\test\resources
+2024-04-13 18:51:30,999 [Worker-4: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier  to /User-Service/target/classes
+2024-04-13 18:51:31,018 [Worker-4: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier  to /Product_Management_Backend/target/classes
+2024-04-13 18:51:31,068 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:51:31,080 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:51:31,092 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:52:28,785 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:52:28,820 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:52:28,830 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:52:51,434 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 18:52:51,448 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 18:52:51,457 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 18:56:39,806 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:56:39,809 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:56:40,720 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:56:40,722 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 18:56:41,569 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 18:56:41,571 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 19:00:47,838 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 19:00:47,901 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 19:00:47,913 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Downloads\gateway (2) 1\gateway\src\test\resources
+2024-04-13 19:07:46,396 [Worker-27: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 19:07:46,397 [Worker-27: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 19:07:47,030 [Worker-27: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 19:07:47,033 [Worker-27: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 19:07:47,668 [Worker-27: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 19:07:47,670 [Worker-27: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 19:08:34,569 [Worker-5: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 19:08:34,572 [Worker-5: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 19:08:35,129 [Worker-5: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 19:08:35,130 [Worker-5: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 19:08:35,682 [Worker-5: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 19:08:35,683 [Worker-5: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 19:11:02,242 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 19:11:02,258 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 19:11:02,264 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 19:21:28,355 [Worker-35: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 19:21:28,357 [Worker-35: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 19:21:28,946 [Worker-35: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 19:21:28,948 [Worker-35: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 19:21:29,578 [Worker-35: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 19:21:29,579 [Worker-35: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 19:23:46,283 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 19:23:46,293 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 19:23:46,301 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 19:25:01,490 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 19:25:01,502 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 19:25:01,512 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 19:25:07,867 [Worker-38: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 19:25:07,869 [Worker-38: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 19:25:08,494 [Worker-38: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 19:25:08,496 [Worker-38: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 19:25:09,034 [Worker-38: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 19:25:09,035 [Worker-38: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 19:40:11,852 [Worker-46: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 19:40:11,853 [Worker-46: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 19:40:12,118 [Worker-46: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 19:40:12,119 [Worker-46: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 19:40:12,381 [Worker-46: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 19:40:12,382 [Worker-46: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 20:00:03,219 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:00:03,239 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2024-04-13 20:00:03,328 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Product_Management_Backend\src\test\resources
+2024-04-13 20:01:46,000 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:01:46,040 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:01:46,045 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Product_Management_Backend\src\test\resources
+2024-04-13 20:02:42,504 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:02:42,578 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:02:42,583 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Product_Management_Backend\src\test\resources
+2024-04-13 20:08:06,991 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:08:07,004 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2024-04-13 20:08:07,027 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Product_Management_Backend\src\test\resources
+2024-04-13 20:08:16,590 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:08:16,605 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2024-04-13 20:08:16,620 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Product_Management_Backend\src\test\resources
+2024-04-13 20:16:30,584 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:16:30,604 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:16:30,613 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Downloads\gateway (2) 1\gateway\src\test\resources
+2024-04-13 20:16:49,947 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:16:49,960 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:16:49,964 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Downloads\gateway (2) 1\gateway\src\test\resources
+2024-04-13 20:21:18,715 [Worker-69: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 20:21:18,717 [Worker-69: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 20:21:19,208 [Worker-69: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 20:21:19,210 [Worker-69: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 20:21:19,750 [Worker-69: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 20:21:19,753 [Worker-69: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 20:23:11,907 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:23:11,959 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:23:11,971 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 20:23:22,343 [Worker-64: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 20:23:22,344 [Worker-64: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 20:23:22,857 [Worker-64: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 20:23:22,860 [Worker-64: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 20:23:23,401 [Worker-64: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 20:23:23,403 [Worker-64: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 20:24:38,198 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:24:38,224 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2024-04-13 20:24:38,248 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Product_Management_Backend\src\test\resources
+2024-04-13 20:27:28,075 [Worker-71: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.art:Shoppingcart:0.0.1-SNAPSHOT @ C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\pom.xml.
+2024-04-13 20:27:30,179 [Worker-71: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.product:Product_Management_Backend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2024-04-13 20:27:30,360 [Worker-71: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier  to /User-Service/target/classes
+2024-04-13 20:27:34,223 [Worker-71: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration ProductManagementBackendApplication references non-existing project Product_Management_Backend.
+org.eclipse.core.runtime.CoreException: Launch configuration ProductManagementBackendApplication references non-existing project Product_Management_Backend.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2024-04-13 20:27:34,234 [Worker-71: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration ProductManagementBackendApplication references non-existing project Product_Management_Backend.
+org.eclipse.core.runtime.CoreException: Launch configuration ProductManagementBackendApplication references non-existing project Product_Management_Backend.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2024-04-13 20:27:34,251 [Worker-71: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration ProductManagementBackendApplication references non-existing project Product_Management_Backend.
+org.eclipse.core.runtime.CoreException: Launch configuration ProductManagementBackendApplication references non-existing project Product_Management_Backend.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:377) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2024-04-13 20:27:34,337 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:27:34,341 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:27:34,353 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 20:27:44,711 [Worker-66: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.product:Product_Management_Backend:0.0.1-SNAPSHOT @ C:\Users\AHIRAY\Downloads\Product_Management_Backend 4 (1)\Product_Management_Backend 4\Product_Management_Backend\pom.xml.
+2024-04-13 20:27:47,812 [Worker-66: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.art:Shoppingcart:0.0.1-SNAPSHOT @ C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\pom.xml.
+2024-04-13 20:27:48,802 [Worker-66: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier  to /User-Service/target/classes
+2024-04-13 20:27:48,814 [Worker-66: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier  to /Product_Management_Backend/target/classes
+2024-04-13 20:27:52,353 [Worker-66: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product_Management_Backend/src/main/java
+2024-04-13 20:27:52,354 [Worker-66: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_Management_Backend/src/main/resources
+2024-04-13 20:27:54,095 [Worker-66: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_Management_Backend/src/main/resources
+2024-04-13 20:27:54,110 [Worker-66: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product_Management_Backend/src/test/java
+2024-04-13 20:27:56,286 [Worker-66: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2024-04-13 20:27:57,669 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:27:57,681 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2024-04-13 20:27:57,962 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Downloads\Product_Management_Backend 4 (1)\Product_Management_Backend 4\Product_Management_Backend\src\test\resources
+2024-04-13 20:27:58,943 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:27:58,954 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:27:58,963 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 20:31:56,361 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-13 20:32:10,562 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:32:10,631 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:32:10,644 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Downloads\gateway (2) 1\gateway\src\test\resources
+2024-04-13 20:32:17,157 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:32:17,174 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2024-04-13 20:32:22,532 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Downloads\Product_Management_Backend 4 (1)\Product_Management_Backend 4\Product_Management_Backend\src\test\resources
+2024-04-13 20:32:28,505 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:32:28,539 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:32:28,552 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\User-Service\src\test\resources
+2024-04-13 20:32:33,922 [Worker-2: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier  to /User-Service/target/classes
+2024-04-13 20:32:33,941 [Worker-2: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier  to /Product_Management_Backend/target/classes
+2024-04-13 20:32:33,977 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:32:33,993 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:32:34,006 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 20:41:10,614 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:41:10,724 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:41:10,748 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Downloads\Product_Management_Backend 4 (1)\Product_Management_Backend 4\Product_Management_Backend\src\test\resources
+2024-04-13 20:43:21,084 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.product:Product_Management_Backend:0.0.1-SNAPSHOT @ C:\Users\AHIRAY\Downloads\Product_Management_Backend 4 (1)\Product_Management_Backend 4\Product_Management_Backend\pom.xml.
+2024-04-13 20:43:24,155 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.art:Shoppingcart:0.0.1-SNAPSHOT @ C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\pom.xml.
+2024-04-13 20:43:24,892 [Worker-26: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier  to /User-Service/target/classes
+2024-04-13 20:43:24,899 [Worker-26: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier  to /Product_Management_Backend/target/classes
+2024-04-13 20:43:31,811 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:43:31,812 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:43:31,830 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Downloads\Product_Management_Backend 4 (1)\Product_Management_Backend 4\Product_Management_Backend\src\test\resources
+2024-04-13 20:43:32,011 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:43:32,012 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:43:32,022 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 20:43:34,186 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:43:34,204 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2024-04-13 20:43:34,475 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Downloads\Product_Management_Backend 4 (1)\Product_Management_Backend 4\Product_Management_Backend\src\test\resources
+2024-04-13 20:44:18,706 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.product:Product_Management_Backend:0.0.1-SNAPSHOT @ C:\Users\AHIRAY\Downloads\Product_Management_Backend 4 (1)\Product_Management_Backend 4\Product_Management_Backend\pom.xml.
+2024-04-13 20:44:21,506 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.art:Shoppingcart:0.0.1-SNAPSHOT @ C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\pom.xml.
+2024-04-13 20:44:22,093 [Worker-27: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier  to /User-Service/target/classes
+2024-04-13 20:44:22,101 [Worker-27: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier  to /Product_Management_Backend/target/classes
+2024-04-13 20:44:25,582 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:44:25,584 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:44:25,596 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Downloads\Product_Management_Backend 4 (1)\Product_Management_Backend 4\Product_Management_Backend\src\test\resources
+2024-04-13 20:44:25,796 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:44:25,797 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:44:25,810 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 20:44:27,851 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:44:27,872 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2024-04-13 20:44:28,113 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Downloads\Product_Management_Backend 4 (1)\Product_Management_Backend 4\Product_Management_Backend\src\test\resources
+2024-04-13 20:52:36,504 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 20:52:36,509 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 20:52:37,898 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 20:52:37,901 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 20:52:39,045 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 20:52:39,051 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 20:57:02,719 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:57:02,796 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:57:02,814 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 20:57:22,804 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 20:57:22,808 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 20:57:23,847 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 20:57:23,854 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 20:57:25,042 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 20:57:25,048 [Worker-34: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 20:59:28,899 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 20:59:28,912 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 20:59:28,923 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Downloads\gateway (2) 1\gateway\src\test\resources
+2024-04-13 21:02:35,532 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 21:02:35,551 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 21:02:35,567 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-13 21:02:54,913 [Worker-35: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 21:02:54,916 [Worker-35: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 21:02:56,073 [Worker-35: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 21:02:56,078 [Worker-35: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 21:02:57,190 [Worker-35: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-13 21:02:57,194 [Worker-35: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-13 21:14:42,389 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-13 21:14:42,425 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 21:14:42,438 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-14 00:09:04,967 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-14 00:09:45,973 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-14 00:09:48,267 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.product:Product_Management_Backend:0.0.1-SNAPSHOT @ C:\Users\AHIRAY\Downloads\Product_Management_Backend 4 (1)\Product_Management_Backend 4\Product_Management_Backend\pom.xml.
+2024-04-14 00:09:49,250 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.log:Register:0.0.1-SNAPSHOT @ C:\Users\AHIRAY\Desktop\ECommerce\Register\pom.xml.
+2024-04-14 00:09:49,539 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.log:User-Service:0.0.1-SNAPSHOT @ C:\Users\AHIRAY\Desktop\ECommerce\User-Service\pom.xml.
+2024-04-14 00:09:49,706 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.log:ApiGateway:0.0.1-SNAPSHOT @ C:\Users\AHIRAY\Downloads\gateway (2) 1\gateway\pom.xml.
+2024-04-14 00:09:49,951 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.art:Shoppingcart:0.0.1-SNAPSHOT @ C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\pom.xml.
+2024-04-14 00:09:50,228 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier  to /User-Service/target/classes
+2024-04-14 00:09:50,232 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier  to /Product_Management_Backend/target/classes
+2024-04-14 00:09:53,231 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/main/java
+2024-04-14 00:09:53,231 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2024-04-14 00:09:53,231 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApiGateway/src/main/resources
+2024-04-14 00:09:53,231 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiGateway/src/test/java
+2024-04-14 00:09:53,746 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product_Management_Backend/src/main/java
+2024-04-14 00:09:53,746 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_Management_Backend/src/main/resources
+2024-04-14 00:09:53,746 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_Management_Backend/src/main/resources
+2024-04-14 00:09:53,747 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product_Management_Backend/src/test/java
+2024-04-14 00:09:54,368 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Register/src/main/java
+2024-04-14 00:09:54,368 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Register/src/main/resources
+2024-04-14 00:09:54,369 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Register/src/main/resources
+2024-04-14 00:09:54,370 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Register/src/test/java
+2024-04-14 00:09:55,312 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shoppingcart/src/main/java
+2024-04-14 00:09:55,313 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Shoppingcart/src/main/resources
+2024-04-14 00:09:55,313 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Shoppingcart/src/main/resources
+2024-04-14 00:09:55,314 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shoppingcart/src/test/java
+2024-04-14 00:09:56,420 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /User-Service/src/main/java
+2024-04-14 00:09:56,420 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /User-Service/src/main/resources
+2024-04-14 00:09:56,421 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /User-Service/src/main/resources
+2024-04-14 00:09:56,422 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /User-Service/src/test/java
+2024-04-14 00:09:57,714 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 11 sec
+2024-04-14 00:09:58,317 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-14 00:09:58,386 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-14 00:09:58,395 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Downloads\gateway (2) 1\gateway\src\test\resources
+2024-04-14 00:09:59,542 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-14 00:09:59,551 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2024-04-14 00:09:59,768 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Downloads\Product_Management_Backend 4 (1)\Product_Management_Backend 4\Product_Management_Backend\src\test\resources
+2024-04-14 00:10:00,134 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-14 00:10:00,139 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-14 00:10:00,147 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Register\src\test\resources
+2024-04-14 00:10:00,700 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-14 00:10:00,707 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-14 00:10:00,714 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\User-Service\src\test\resources
+2024-04-14 00:10:01,647 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-14 00:10:01,658 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-14 00:10:01,665 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-14 00:15:24,393 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-14 00:15:24,402 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-14 00:15:24,407 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-14 00:16:38,629 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-14 00:16:38,634 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-14 00:16:38,637 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-14 00:19:05,143 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-14 00:19:05,221 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-14 00:19:05,229 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-14 00:19:38,474 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-14 00:19:38,479 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-14 00:19:38,484 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-14 00:20:53,581 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-14 00:20:53,602 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-14 00:20:53,607 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-14 00:21:46,553 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-14 00:21:46,557 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-14 00:21:46,561 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-14 00:24:39,557 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-14 00:24:39,560 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-14 00:24:39,929 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-14 00:24:39,931 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-14 00:24:40,270 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-14 00:24:40,271 [Worker-24: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-14 00:25:35,917 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-14 00:25:35,923 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-14 00:25:35,929 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-14 00:25:42,966 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-14 00:25:42,970 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-14 00:25:42,973 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-14 00:25:50,806 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-14 00:25:50,811 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-14 00:25:50,817 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-14 00:25:57,352 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-14 00:25:57,356 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-14 00:25:57,360 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AHIRAY\Desktop\ECommerce\Shoppingcart\src\test\resources
+2024-04-14 00:26:16,690 [Worker-20: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-14 00:26:16,692 [Worker-20: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes
+2024-04-14 00:26:17,083 [Worker-20: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/User-Service: com.log:User-Service:0.0.1-SNAPSHOT with classifier null to /User-Service/target/classes
+2024-04-14 00:26:17,084 [Worker-20: Launching ShoppingcartApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Product_Management_Backend: com.product:Product_Management_Backend:0.0.1-SNAPSHOT with classifier null to /Product_Management_Backend/target/classes

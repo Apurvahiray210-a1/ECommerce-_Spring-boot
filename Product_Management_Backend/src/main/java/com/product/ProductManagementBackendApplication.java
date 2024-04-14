@@ -5,11 +5,16 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 import org.springframework.context.annotation.ComponentScan;
+import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @SpringBootApplication
-@EnableDiscoveryClient
+@EnableJpaRepositories("com.product.repository")
+@EnableDiscoveryClient(autoRegister=true)
+//@ComponentScan("com.reg.*")
+
+//@EnableDiscoveryClient
 @EnableFeignClients
-//@ComponentScan(basePackages = {"com.product.external.services"})
+@ComponentScan(basePackages = {"com.product.*"})
 public class ProductManagementBackendApplication {
 
 	public static void main(String[] args) {

@@ -1,14 +1,7 @@
 package com.art.model;
 
-import java.util.List;
+import org.springframework.stereotype.Component;
 
-import jakarta.persistence.CascadeType;
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.OneToMany;
-import jakarta.persistence.Table;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -18,18 +11,23 @@ import lombok.Setter;
 @Getter
 @AllArgsConstructor
 @NoArgsConstructor
+@Component
+//@Table(name = "admin")
 public class Product {
-	
-	@Id
-	  @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private String productId;
+    //@Id
+   // @GeneratedValue(strategy = GenerationType.AUTO)
+    private int id;
     private String productName;
     private String description;
     private double price;
     private String status;
+    //private String imageName;
     private String imageFilename;
-    private int categoryId;
+    //private int categoryId;
+   // private int userid;
+ 
     
-    @OneToMany(mappedBy = "product", cascade = CascadeType.ALL)
-    private List<Cart> carts;
+    
+	
+	
 }

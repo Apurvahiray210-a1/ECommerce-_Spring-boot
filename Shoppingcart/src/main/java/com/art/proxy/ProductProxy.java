@@ -9,18 +9,21 @@ import org.springframework.web.bind.annotation.RequestHeader;
 
 import com.art.model.Product;
 
+//import com.art.model.product.Product;
 
 
 
 
-@FeignClient(name="Product" , url="http://localhost:8085")
+
+
+@FeignClient(name="Admin-Service" , url="http://localhost:8085")
 public interface ProductProxy {
 
 	
 
 	
 	
-	@GetMapping("/getProductById/{id}")
+	@GetMapping("/req/getProductById/{id}")
 	  public Product getProductById(@PathVariable int id);
 	
 }
